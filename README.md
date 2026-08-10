@@ -6,8 +6,7 @@ The project features a clean user interface, interactive gameplay, winner detect
 ---
 
 ## 🚀 Live Demo
-
-🔗 **Live Demo:** Add your Vercel/Netlify link here
+🔗 https://tic-tac-toe-game-project-mu.vercel.app/
 
 ---
 
